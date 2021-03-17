@@ -5,7 +5,7 @@ While the user is normally driving, ParkMaster enables off the shelf smartphones
 **NOTE** Old project, not maintained anymore
 
 
-´´´
+```
 @misc{grassi:hal-01231828,
   TITLE = {{ParkMaster: Leveraging Edge Computing in Visual Analytics}},
   AUTHOR = {Grassi, Giulio and Sammarco, Matteo and Bahl, Paramvir and Jamieson, Kyle and Pau, Giovanni},
@@ -21,4 +21,5 @@ While the user is normally driving, ParkMaster enables off the shelf smartphones
   HAL_ID = {hal-01231828},
   HAL_VERSION = {v1},
 }
-´´´
+```
+
