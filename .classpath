@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK/OpenCV Library - 2.4.10"/>
+	<classpathentry exported="true" kind="src" path="/OpenCV Library - 2.4.10"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry exported="true" kind="lib" path="/home/matteo/workspace_opencv/logback-android-1.1.1-3.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/matteo/workspace_opencv/slf4j-api-1.7.6.jar"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>
